@@ -288,25 +288,25 @@ print("\nAverage reward over last 1000 episodes:", average_reward)
 
 ## Output
 
-Final Q-table:
+#### Final Q-table:
 
 <img width="568" height="345" alt="image" src="https://github.com/user-attachments/assets/eb9d84cf-f0ea-4546-b5b3-477d71866b64" />
 
 
 
-Estimated State-Value Function:
+#### Estimated State-Value Function:
 
 <img width="535" height="116" alt="image" src="https://github.com/user-attachments/assets/ea8b89d8-7271-41bc-b819-329850f1d9f8" />
 
 
 
 
-Learned Policy:
+#### Learned Policy:
 
 <img width="391" height="115" alt="image" src="https://github.com/user-attachments/assets/d36c3c3b-95de-40ad-a346-4ace10d3ad90" />
 
 
-Average reward over last 1000 episodes: 
+#### Average reward over last 1000 episodes: 
 
 <img width="557" height="52" alt="image" src="https://github.com/user-attachments/assets/b0804eb4-ccae-455a-93ee-4ead5c587f83" />
 
