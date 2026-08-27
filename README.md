@@ -315,18 +315,14 @@ print("\nAverage reward over last 1000 episodes:", average_reward)
 
 
 ## Result
-```text
+
 The SARSA control algorithm was successfully implemented using the Gymnasium FrozenLake-v1 environment.
 
-```
 
 ---
 
 ## Inference
-```text
-
 The experiment demonstrates that SARSA can learn an effective policy through an epsilon-greedy exploration strategy. During training, the agent initially explores different actions and gradually exploits actions with higher Q-values as epsilon decreases.
 
-```
 ---
 
