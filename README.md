@@ -289,11 +289,13 @@ print("\nAverage reward over last 1000 episodes:", average_reward)
 ## Output
 
 Final Q-table:
+
 <img width="568" height="345" alt="image" src="https://github.com/user-attachments/assets/eb9d84cf-f0ea-4546-b5b3-477d71866b64" />
 
 
 
 Estimated State-Value Function:
+
 <img width="535" height="116" alt="image" src="https://github.com/user-attachments/assets/ea8b89d8-7271-41bc-b819-329850f1d9f8" />
 
 
